@@ -1,7 +1,5 @@
 #encoding:utf-8
 import json
-from pprint import pprint
-
 
 def _handle_datatype(values):
     """
